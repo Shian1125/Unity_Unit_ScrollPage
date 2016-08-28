@@ -30,6 +30,9 @@
 # 備註:
   這次是參考以下兩位神人的做法，之後除了將Vertical更新上去外，也會盡量完善其他部分!
 
-    https://bitbucket.org/ddreaper/unity-ui-extensions/overview
+  - [Simon Jackson]
 
-    http://www.xuanyusong.com/archives/3325
+  - [雨松MOMO]
+
+[Simon Jackson]: <https://bitbucket.org/ddreaper/unity-ui-extensions/overview>
+[雨松MOMO]: <http://www.xuanyusong.com/archives/3325>
