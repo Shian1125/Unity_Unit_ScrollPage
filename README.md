@@ -1,4 +1,4 @@
-# Dillinger
+
 # Unity_Unit_ScrollPage
 
 目前只有Horizontal的部分，Vertical其實原理一樣，之後有空補上
@@ -14,7 +14,7 @@
       - Butten_Next/Prev: 跳至上/下頁的按鈕，掛在ScrollView下即可(非必須)
       - Scrollbar: 額外一種控制手段(非必須)
       - Paginations: 用來顯示目前頁數/總頁數，toggle的父物件，要使用時需將此拖給ScrollControl_horizontal.cs(非必須)
-      -Toggle: 利用UGUI的toggle進行顯示頁數控制
+          - Toggle: 利用UGUI的toggle進行顯示頁數控制
       
 以上為在Unity中Hierarchy架構
 
